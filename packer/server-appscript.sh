@@ -11,13 +11,11 @@ sudo whoami
 
 
 #git clone
-#sudo git clone https://github.com/priyankachouk/jenkins-react-app.git
-
-sudo git clone https://github.com/sid1909/java-react.git
+sudo git clone https://github.com/priyankachouk/java-react.git
 cd java-react/react-application-emp-frontend
 
-#sudo git clone https://github.com/tvc-ctg/java-react-app.git
-#cd java-react-app/react-application-emp-frontend
+#sudo git clone https://github.com/tvc-ctg/java-react.git
+#cd java-react/react-application-emp-frontend
 
 #node npm
 sudo apt update
